@@ -1,8 +1,6 @@
 # blood-camp-api
 
-# Here i am editing from online vs code editor
-
-Here i am editing from online vs code editor
+## This is the forked repo from my old account which got deleted later, into this account. 
 
 Endpoints:
 
